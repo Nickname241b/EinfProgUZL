@@ -1,0 +1,12 @@
+1. Spielfeldgrenzen werden beachtet: bestanden.
+
+2. Verbündete Figuren werden nicht geschlagen: bestanden.
+
+3. Bewegungsmuster wird eingehalten: bestanden.
+
+4. Bauer hat Konstruktor nach Spezifikation: bestanden.
+
+5. Gültige Spielzüge werden richtig erkannt: fehlgeschlagen.
+Der Bauer hätte eigentlich zwei Schritte laufen dürfen.
+
+6. Bauer erbt von Figur: bestanden.
